@@ -73,5 +73,7 @@ Successfully built a working Active Directory home lab with a functional domain 
 ### Security Groups
 ![Security Groups](https://github.com/Tl39455/active-directory-home-lab/blob/a1728809d403d3949ce94f33f1e86111d3d7c3ee/it-ou-group.png)
 
+![](https://github.com/Tl39455/active-directory-home-lab/blob/84ea2a829c75a6b9e3a5a8c5bb9dfe54be516ef7/workstation-group.png)
+
 ### Domain Authentication
 ![Domain Authentication](screenshots/domain-authentication.png)
