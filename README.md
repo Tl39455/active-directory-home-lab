@@ -62,7 +62,7 @@ Successfully built a working Active Directory home lab with a functional domain 
 
 ## Screenshots
 ### Active Directory Users and Computers
-![AD Users and Computers](screenshots/ad-users-and-computers.png)
+![AD Users and Computers](https://github.com/Tl39455/active-directory-home-lab/blob/c5647f90d915da0a3ff0facb8bc7671ad2447311/created-ous.png)
 
 ### DNS Manager
 ![DNS Manager](screenshots/dns-manager.png)
