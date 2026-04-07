@@ -75,5 +75,8 @@ Successfully built a working Active Directory home lab with a functional domain 
 
 ![](https://github.com/Tl39455/active-directory-home-lab/blob/84ea2a829c75a6b9e3a5a8c5bb9dfe54be516ef7/workstation-group.png)
 
+![](https://github.com/Tl39455/active-directory-home-lab/blob/d5430484e35292c3e6df42140f401283e25bd516/security-group.png
+)
+
 ### Active Directory Setup
 ![AD Setup](https://github.com/Tl39455/active-directory-home-lab/blob/55b04b40ac7aaacb49065d5f99f440df781e5416/tools-menu.png)
