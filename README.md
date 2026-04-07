@@ -68,7 +68,7 @@ Successfully built a working Active Directory home lab with a functional domain 
 ![DNS Manager](https://github.com/Tl39455/active-directory-home-lab/blob/b3325479c7e2c190da740a7c8e99d9b35abce690/dns-manager-intergrated-zone-ad.png)
 
 ### Domain Users
-![Domain Users](screenshots/domain-users.png)
+![Domain Users](https://github.com/Tl39455/active-directory-home-lab/blob/06f4293275dd29c0518e14dabc0d24ebc4b6f88a/lab-users.png)
 
 ### Security Groups
 ![Security Groups](screenshots/security-groups.png)
